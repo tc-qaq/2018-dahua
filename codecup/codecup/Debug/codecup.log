@@ -1,0 +1,8 @@
+﻿  main8.c
+f:\ori_g\project f\vs2017project\codecup\codecup\main8.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+f:\ori_g\project f\vs2017project\codecup\codecup\main8.c(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+f:\ori_g\project f\vs2017project\codecup\codecup\main8.c(33): warning C4716: “deal”: 必须返回一个值
+  codecup.vcxproj -> F:\ori_g\Project F\vs2017project\codecup\Debug\codecup.exe
+  codecup.vcxproj -> F:\ori_g\Project F\vs2017project\codecup\Debug\codecup.pdb (Partial PDB)
